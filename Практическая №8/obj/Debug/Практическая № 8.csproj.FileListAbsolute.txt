@@ -1,0 +1,14 @@
+D:\Users\1213-14\Documents\2-ИСПд\Парамонова\Практическая № 8\obj\Debug\Практическая № 8.csproj.AssemblyReference.cache
+D:\Users\1213-14\Documents\2-ИСПд\Парамонова\Практическая № 8\obj\Debug\Практическая № 8.csproj.CoreCompileInputs.cache
+D:\Users\1213-14\Documents\2-ИСПд\Парамонова\Практическая № 8\bin\Debug\Практическая № 8.exe.config
+D:\Users\1213-14\Documents\2-ИСПд\Парамонова\Практическая № 8\bin\Debug\Практическая № 8.exe
+D:\Users\1213-14\Documents\2-ИСПд\Парамонова\Практическая № 8\bin\Debug\Практическая № 8.pdb
+D:\Users\1213-14\Documents\2-ИСПд\Парамонова\Практическая № 8\obj\Debug\Практическая № 8.exe
+D:\Users\1213-14\Documents\2-ИСПд\Парамонова\Практическая № 8\obj\Debug\Практическая № 8.pdb
+D:\Users\1213-14\Documents\2-ИСПд\Парамонова\Практическая №8\bin\Debug\Практическая № 8.exe.config
+D:\Users\1213-14\Documents\2-ИСПд\Парамонова\Практическая №8\bin\Debug\Практическая № 8.exe
+D:\Users\1213-14\Documents\2-ИСПд\Парамонова\Практическая №8\bin\Debug\Практическая № 8.pdb
+D:\Users\1213-14\Documents\2-ИСПд\Парамонова\Практическая №8\obj\Debug\Практическая № 8.csproj.AssemblyReference.cache
+D:\Users\1213-14\Documents\2-ИСПд\Парамонова\Практическая №8\obj\Debug\Практическая № 8.csproj.CoreCompileInputs.cache
+D:\Users\1213-14\Documents\2-ИСПд\Парамонова\Практическая №8\obj\Debug\Практическая № 8.exe
+D:\Users\1213-14\Documents\2-ИСПд\Парамонова\Практическая №8\obj\Debug\Практическая № 8.pdb
